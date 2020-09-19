@@ -1,6 +1,4 @@
-### Hi there 👋 I'm Success Ologunsua
-
-Hi, I’m Success, a 23 years old not-so-talented writer in a healthy relationship with tech, fashion, fitness, travel and football.
+# Hi there 👋 I'm Success Ologunsua, a 23 years old not-so-talented writer in a healthy relationship with tech, fashion, fitness, travel and football.
 
 - 🌱 I’m currently learning ...Machine learning and its application in the health field
 - 👯 I’m looking to collaborate on ...Data Science/Machine Learning projects, Community Building, 
