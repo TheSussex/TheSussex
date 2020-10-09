@@ -9,4 +9,4 @@ I fell in love with data science when I saw how it can be used to improve public
 - 💬 Ask me about: Python, Data Science, Health-tech, Wikipedia Contributions, SDGs. 
 - 📫 How to reach me: Twitter @TheSussex_ 
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: My favourite things to do are stalking people on LinkedIn, looking up unreasonably fast ways to lose weight (10 kg in a week), binge-watching thriller series and obsessing over high-priced hair extensions.
+- ⚡ Fun fact: My favourite things to do are stalking people on LinkedIn, looking up unreasonably fast ways to lose weight (10 kg in a week🤔), binge-watching thriller series and obsessing over high-priced hair extensions.
