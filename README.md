@@ -1,5 +1,5 @@
-### Hi there 👋 I'm Success Ologunsua, a 23 years old not-so-talented writer in a healthy relationship with tech, fashion, fitness, travel and football. 
-### I'm also a junior data scientist and content writer based in Lagos, Nigeria. 
+### Hi there 👋 I'm Success Ologunsua, a not-so-talented writer in a healthy relationship with tech, fashion, fitness, travel and football. 
+### I'm also a junior data scientist and machine learning enthusiast based in Lagos, Nigeria. 
 
 I fell in love with data science when I saw how it can be used to improve public health. I'd like to contribute to improved documentation of health statistics, as well as efficient analysis of the records, leading to proper health-policy making.
 
