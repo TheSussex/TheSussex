@@ -10,3 +10,5 @@ I fell in love with data science when I saw how it can be used to improve public
 - 📫 How to reach me: [@TheSussex](https://twitter.com/TheSussex_) 
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: My favourite things to do are stalking people on LinkedIn, looking up unreasonably fast ways to lose weight (10 kg in a week🤔), binge-watching thriller series and obsessing over high-priced hair extensions.
+- Read some of my articles on [Medium](https://medium.com/@TheSussex)
+ 
