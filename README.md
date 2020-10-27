@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Success Ologunsua, a not-so-talented writer in a healthy relationship with tech, fashion, fitness, travel and football. 
+### Hi there 👋 I'm Success, a not-so-talented writer in a healthy relationship with tech, fashion, fitness, travel and football. 
 ### I'm also a junior data scientist and machine learning enthusiast based in Lagos, Nigeria. 
 
 - 🌱 I’m currently learning about machine learning and its applications
