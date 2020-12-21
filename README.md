@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Success, a not-so-talented writer in a healthy relationship with tech, fashion, fitness, travel and football. 
 
-- 🌱 I’m currently learning about Rudiments of Software Engineering
+- 🌱 I’m currently learning Software Engineering/Backend Development
 - 👯 I’m looking to collaborate on: Data Science/Machine Learning projects, Community Building, Open-Source Contributions
 - 💬 Ask me about: Python, Data Science, ML, Health-tech, Wikipedia Contributions, SDGs. 
 - 📫 How to reach me: Email-[successologunsua@gmail.com](successologunsua@gmail.com), Twitter-[@TheSussex](https://twitter.com/TheSussex_)
