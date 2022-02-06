@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Success, a not-so-talented writer in a healthy relationship with tech, fashion, fitness, travel and football. 
+### Hi there 👋 I'm Success, a software developer in a healthy relationship with tech, fashion, fitness, travel and football. 
 
 - 🌱 I’m currently learning about interesting Backend Development technologies and tools.
 - 📫 How to reach me: Email-[successologunsua@gmail.com](successologunsua@gmail.com), Twitter-[@TheSussex_](https://twitter.com/TheSussex_)
